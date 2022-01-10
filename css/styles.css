@@ -24,6 +24,7 @@ section {
     padding-top: 75px;
 }
 
+
 .container h3,
 .container h4 {
     margin: 20px 0;
@@ -66,10 +67,14 @@ header #company-logo {
 header h1 {
     font-size: 25px;
     font-weight: thin;
-    font-family: "Rock Salt", cursive;
     color: #ddd;
     line-height: 35px;
     text-shadow: 1px 1px 3px #333;
+}
+
+.main-t {
+    font-family: 'Lobster', cursive;
+
 }
 
 header .menu-wraper {
